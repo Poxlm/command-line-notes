@@ -17,15 +17,6 @@ A feature-rich command-line note-taking system to help you stay organized and ma
    ```bash
    cd command-line-notes
    ```
-
-3. **Install Required Dependencies:**
-
-   Ensure you have Python installed. Then, install the necessary dependencies.
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. **Run the Note-Taking System:**
